@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-✨ My name is Macarena Haspert and I'm a game developer from Bahía Blanca, Buenos Aires, Argentina.  
+✨ My name is Marlow Haspert and I'm a game developer from Bahía Blanca, Buenos Aires, Argentina.  
 😄 My pronouns are she/they  
 📫 Reach me at [my web page](https://kawzar.me) or my social media accounts [![alt text][1.2]][1]&nbsp;[![alt text][3.2]][3]&nbsp;  
 
